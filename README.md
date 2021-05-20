@@ -36,6 +36,11 @@ Ridesharing services have become a staple in moderntransportation life. A ride t
     └── README.txt
 
 
-
+### Credits
+- Atheer Al Attar
+- Martin Nelson
+- Kayle Leland
+- Avani Patel
+- Carlos G. Mozuelos
 
 
